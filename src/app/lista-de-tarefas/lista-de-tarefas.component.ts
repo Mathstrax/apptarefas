@@ -13,7 +13,9 @@ export class ListaDeTarefasComponent implements OnInit {
   familia: Array<string> = [
     "Matheus",
     "Jucelino",
-    "Claudia"
+    "Claudia",
+    "Lucas",
+    "Leticia"
 
   ];
 
